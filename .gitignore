@@ -25,3 +25,6 @@
 erd.pdf
 tags
 .vim-bookmarks
+
+/config/database.yml
+/config/secrets.yml
